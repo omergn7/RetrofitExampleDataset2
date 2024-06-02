@@ -3,36 +3,36 @@
     "name": "Boğaziçi Beton Sanayi",
     "shortName": "BOBET",
     "region": "Turkey",
-    "icon": "https://github.com/omergn7/RetrofitExampleDataset2/blob/main/bobeto.png"
+    "icon": "https://raw.githubusercontent.com/omergn7/RetrofitExampleDataset2/main/bobeto.png"
   },
   {
     "name": "Aselsan",
     "shortName": "ASELS",
     "region": "Turkey",
-    "icon": "https://github.com/omergn7/RetrofitExampleDataset2/blob/main/aselsan--600.png"
+    "icon": "https://raw.githubusercontent.com/omergn7/RetrofitExampleDataset2/main/aselsan--600.png"
   },
   {
     "name": "Alarko Holding",
     "shortName": "ALARK",
     "region": "Turkey",
-    "icon": "https://github.com/omergn7/RetrofitExampleDataset2/blob/main/alarko-holding--600.png"
+    "icon": "https://raw.githubusercontent.com/omergn7/RetrofitExampleDataset2/main/alarko-holding--600.png"
   },
   {
     "name": "Gürsel Turizm",
     "shortName": "GRSEL",
     "region": "Turkey",
-    "icon": "https://github.com/omergn7/RetrofitExampleDataset2/blob/main/gursel.png"
+    "icon": "https://raw.githubusercontent.com/omergn7/RetrofitExampleDataset2/main/gursel.png"
   },
   {
     "name": "Astor Enerji",
     "shortName": "ASTOR",
     "region": "Turkey",
-    "icon": "https://github.com/omergn7/RetrofitExampleDataset2/blob/main/ASTOR.png"
+    "icon": "https://raw.githubusercontent.com/omergn7/RetrofitExampleDataset2/main/ASTOR.png"
   },
   {
     "name": "Anadolu Sigorta",
     "shortName": "ANSGR",
     "region": "Turkey",
-    "icon": "https://github.com/omergn7/RetrofitExampleDataset2/blob/main/anadolu-sigorta--600.png"
+    "icon": "https://raw.githubusercontent.com/omergn7/RetrofitExampleDataset2/main/anadolu-sigorta--600.png"
   }
 ]
